@@ -1,7 +1,7 @@
 {
-  "name": "ionic-hello-world",
-  "author": "Ionic Framework",
-  "homepage": "http://ionicframework.com/",
+  "name": "osmesh-dashboard",
+  "author": "OpenSmartMesh dev team, maintained by Red",
+  "homepage": "http://opensmartmesh.org/",
   "private": true,
   "scripts": {
     "build": "ionic-app-scripts build",
